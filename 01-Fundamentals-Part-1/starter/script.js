@@ -210,5 +210,5 @@ console.log(`${higherBMI}'s BMI (${higherBMIData}) is higher than ${lowerBMI}'s 
 
 // Part 20.
 
-const inputYear = '1991';
+let yearOne = '1991';
 console.log('hi');
